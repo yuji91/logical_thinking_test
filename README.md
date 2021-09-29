@@ -62,7 +62,3 @@ Q5. A，B，C，D，Eの5人が，誰が宝くじを当てたかについて話�
 
 A5.【回答を記入してください】  
 【どのように考えたのかの概要を記載してください】 
-
-出典:山陽学園大学  
-http://www.sguc.ac.jp/i/st/learning/logic/  
-[練習問題PDF](http://www.sguc.ac.jp/i/st/learning/logic/%E5%91%BD%E9%A1%8C%E8%AB%96%E7%90%86_%E7%B7%B4%E7%BF%92%E5%95%8F%E9%A1%8C.pdf)
